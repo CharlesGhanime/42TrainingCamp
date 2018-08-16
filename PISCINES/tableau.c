@@ -4,13 +4,13 @@
 int main(int argc, char *argv[])
 {
 
-int a=97;
+int i=97;
 
     while (a<123)
     {
 
-    putchar(a);
-    a++;
+    putchar(i);
+    i++;
 
     }
 
